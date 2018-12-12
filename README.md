@@ -6,8 +6,9 @@
 This project shows how to access, secure, and perform the initial configuration of a bare-bones Linux server. It highlights how to install and configure a web and database server as well as hosting a web application.
 
 ## IP & Hostname
-- Host Name: ec2-18.223.237.142.us-east-2.compute.amazonaws.com
-- IP Address: 18.223.237.142
+- Host Name: http://ec2-18-222-114-195.us-east-2.compute.amazonaws.com
+- IP Address: 18.222.114.195
+- Port : 2200
 
 ##  Setting Up Amazon Lightsail
 
